@@ -1,0 +1,15 @@
+binance:
+  api_key: xxxx
+  api_secret: xxx
+  pairs:
+    ETH:
+      name: ETHUSDT
+      limit: 2100
+
+telegram:
+  api_id: xxxx
+  api_hash: xxxx
+  bot_token: xxx
+  destinations:
+    - xxxx
+
